@@ -7,6 +7,7 @@ public class OrdenarPorMerge implements Ordenador{
     }
 
     public int[] merge(int[] array, int[] array2) {
+        
         return array;
     }
     
